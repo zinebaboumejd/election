@@ -2,7 +2,7 @@
 #include <string.h>
 int main ()
 {
-	printf ("----------------Bonjoure Election Presidentielle----------------\n");
+	printf ("---------------Bonjoure Election Presidentielle---------------\n");
 	//ELECTEUR
 	int nbrElect ;
 	printf("entrer le nombre d'electeur : \n");
